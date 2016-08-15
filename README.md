@@ -4,6 +4,9 @@ copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/ta
 shadowsocks
 ===========
 
+AUTHOER:https://github.com/immqy/ShadowSocks
+
+
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
